@@ -1,0 +1,142 @@
+
+.row__menu{
+    display: flex;
+    margin-top: 15px;
+    margin-left: 35px;
+}
+.menu__nav{
+    margin-left: auto;
+}
+ul{
+    display: flex;
+}
+ul li{
+    padding-right: 35px;
+}
+ul li a{
+    text-decoration: none;
+    color: brown;
+}
+.photo{
+    display: flex;
+}
+.img1{
+    margin-top: 25px;
+    margin-left: 35px;  
+}
+.img2{
+    margin-top: 25px;
+    margin-left: 90px;
+}
+.school{
+    font-weight: 300;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.clouds{
+    width: 90%;
+    margin-bottom: 53px;
+}
+.buble{
+    width: 90%;
+}
+.contact{
+    margin-top: 50px;
+    padding-top: 50px;
+    width: 100%;
+    background-color: #E0FFFF;
+}
+.inform{
+    margin-top: 45px;
+    margin-left: 35px;
+}
+.inform__item{
+    display: flex;
+}
+.object{
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 33.3%;
+}
+.medal{
+    margin-left: 40%;
+}
+.chess{
+    margin-left: 40%;
+}
+.heand{
+    margin-left: 40%;
+}
+.inform__text{
+    display: flex;
+}
+.medal__text{
+    width: 33.3%;
+    margin-left: 12px;
+}
+.chess_text{
+    width: 33.3%;
+    margin-left: 42px;
+}
+.heand__text{
+    width: 33.3%;
+    margin-left: 12px;
+}
+.client{
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 12px;
+}
+.social{
+    padding-top: 70px;
+    padding-left: 35px;
+    display: flex;
+    padding-bottom: 70px;
+}
+.butom{
+    border: 2px solid;
+    border-radius: 12px;
+    width: 20%;
+    margin-left: 40px;
+}
+.buttom__icon{
+    margin-left: 40%;
+}
+.teacher{
+    margin-left: 35px;
+    margin-right: 35px;
+    
+}
+.teacher__inf{
+    display: flex;
+}
+.teacher__img{
+    width: 100%;
+    height: 70%;
+    
+}
+.teacher__form{
+    width: 30%;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.footer{
+    background-color: black;
+    display: flex;
+}
+.about__us{
+    margin: 70px 40px 40px 40px;
+}
+.sch{
+    color: white;
+}
+.social__contact{
+    background-color: white;
+    margin-left: 20px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
