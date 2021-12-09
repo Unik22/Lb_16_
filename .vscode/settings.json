@@ -1,5 +1,6 @@
 {
     "projectManager.git.baseFolders": [
         "Web"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
